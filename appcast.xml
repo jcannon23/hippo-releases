@@ -1,9 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>Hippo updates</title>
     <link>https://github.com/jcannon23/hippo-releases</link>
     <description>Stable and opt-in beta updates for Hippo.</description>
     <language>en</language>
-  </channel>
+  <item><title>Hippo 1.0.0</title><sparkle:version>1000</sparkle:version><sparkle:shortVersionString>1.0.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><pubDate>Mon, 28 Sep 2026 18:49:40 +0000</pubDate><sparkle:channel>beta</sparkle:channel><description># Hippo 1.0.0
+
+First public release with built-in updates.
+
+- Check for updates from the Hippo menu or Settings → Updates.
+- Automatic update checks, with installation kept out of active recordings.
+- Optional beta updates for testing upcoming releases before Stable.
+- Sidebar icons and selection highlights follow your chosen accent, with readable selected text.
+- A wider, top-aligned meeting timeline with pinned speaker names and scrolling.
+- A more prominent “Check again” button in the live meeting’s People tab.
+- DeepSeek removed from meeting summary and fallback choices; Ollama remains available for local models. Existing DeepSeek summary selections move to Apple on-device.
+
+Requires Apple silicon and macOS 26 or later. Developer ID signed and Apple notarized.
+
+Existing users: install this release manually once to enable future in-app updates.
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.0-1000/Hippo-1.0.0-1000.zip" length="11261272" type="application/octet-stream" sparkle:edSignature="T0XD9Kr9CPSjJpReIXYQDFj/kml01b2YWSJzF0z0VhysqoG5TcOdcMHZEIQmlYxQudl2JKdd+SenyubYX12iBA==" /></item></channel>
 </rss>
