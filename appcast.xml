@@ -5,7 +5,7 @@
     <link>https://github.com/jcannon23/hippo-releases</link>
     <description>Stable and opt-in beta updates for Hippo.</description>
     <language>en</language>
-  <item><title>Hippo 1.0.0</title><sparkle:version>1000</sparkle:version><sparkle:shortVersionString>1.0.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><pubDate>Mon, 28 Sep 2026 18:49:40 +0000</pubDate><sparkle:channel>beta</sparkle:channel><description># Hippo 1.0.0
+  <item><title>Hippo 1.0.0</title><sparkle:version>1000</sparkle:version><sparkle:shortVersionString>1.0.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><pubDate>Mon, 28 Sep 2026 18:49:40 +0000</pubDate><description># Hippo 1.0.0
 
 First public release with built-in updates.
 
