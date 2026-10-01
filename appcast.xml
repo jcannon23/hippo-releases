@@ -51,5 +51,11 @@ Requires macOS 26 or later on Apple silicon.
 - Collapsed sidebar: hovering an icon shows its name and hides it when you move away. The heavy focus box around clicked icons is gone.
 
 Requires macOS 26 or later on Apple silicon.
-</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.4-1008/Hippo-1.0.4-1008.zip" length="11416108" type="application/octet-stream" sparkle:edSignature="PL18bakfkQUwSpIYwKXHCgToiSstIVYnoETMppOPNIhLGejR22O4ZOgy56RT9SaHPk6UGqqdz13oI8V6w3JMCw==" /></item></channel>
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.4-1008/Hippo-1.0.4-1008.zip" length="11416108" type="application/octet-stream" sparkle:edSignature="PL18bakfkQUwSpIYwKXHCgToiSstIVYnoETMppOPNIhLGejR22O4ZOgy56RT9SaHPk6UGqqdz13oI8V6w3JMCw==" /></item><item><title>Hippo 1.0.5</title><sparkle:version>1009</sparkle:version><sparkle:shortVersionString>1.0.5</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><pubDate>Thu, 01 Oct 2026 17:48:35 +0000</pubDate><sparkle:channel>beta</sparkle:channel><description>## What's new
+
+- Action item checkboxes highlight under your pointer. Ticking one shows the check mark briefly before the item leaves the list (Action Items and Home).
+- Confirmation and notice pop-ups now use your chosen accent color instead of the system accent.
+
+Requires macOS 26 or later on Apple silicon.
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.5-1009/Hippo-1.0.5-1009.zip" length="11431168" type="application/octet-stream" sparkle:edSignature="YGmPvQamL6p9JtVXMJBYwR1ZOOMOzm4x7KRHM1DCLwaGdfiQoPzLceToYuCKtbcIzu626FOJoAIXMPWYTEe7DA==" /></item></channel>
 </rss>
