@@ -44,5 +44,12 @@ Requires macOS 26 or later on Apple silicon.
 
 - Sidebar labels no longer remain stuck after selecting a section.
 - Keyboard-focus labels dismiss automatically while keyboard navigation and normal hover tooltips remain available.
-</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.3-1006/Hippo-1.0.3-1006.zip" length="11455768" type="application/octet-stream" sparkle:edSignature="wf2QUurwdp4Ul6OjQibK838JhVTgsPoig7nuFKarR3f4I+o2XcyAkytg6qdFOUAtA/5KeGGpf7r3YreVaiiqAg==" /></item></channel>
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.3-1006/Hippo-1.0.3-1006.zip" length="11455768" type="application/octet-stream" sparkle:edSignature="wf2QUurwdp4Ul6OjQibK838JhVTgsPoig7nuFKarR3f4I+o2XcyAkytg6qdFOUAtA/5KeGGpf7r3YreVaiiqAg==" /></item><item><title>Hippo 1.0.4</title><sparkle:version>1008</sparkle:version><sparkle:shortVersionString>1.0.4</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><pubDate>Thu, 01 Oct 2026 17:29:26 +0000</pubDate><sparkle:channel>beta</sparkle:channel><description>## What's new
+
+- Hippo adopts the Liquid Glass design language: translucent cards, a glass live-meeting bar, glass tab pills and buttons, and a system window background.
+- Chat bubbles, text fields and the collapsed sidebar rail follow the new look.
+- Collapsed sidebar: hovering an icon shows its name and hides it when you move away. The heavy focus box around clicked icons is gone.
+
+Requires macOS 26 or later on Apple silicon.
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.4-1008/Hippo-1.0.4-1008.zip" length="11416108" type="application/octet-stream" sparkle:edSignature="PL18bakfkQUwSpIYwKXHCgToiSstIVYnoETMppOPNIhLGejR22O4ZOgy56RT9SaHPk6UGqqdz13oI8V6w3JMCw==" /></item></channel>
 </rss>
