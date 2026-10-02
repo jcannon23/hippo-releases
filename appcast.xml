@@ -63,5 +63,22 @@ Requires macOS 26 or later on Apple silicon.
 - If a voice can't be confirmed, it's left unnamed so you can name it, instead of guessing.
 
 Requires macOS 26 or later on Apple silicon.
-</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.6-1010/Hippo-1.0.6-1010.zip" length="11434607" type="application/octet-stream" sparkle:edSignature="rzIXDHhymbMEGaWJgw6wjpvzA4w/kNTb+0vyiv9IDwgtpfrtxDE/YQVUPBS1eNY6O9BISi2xp7UiW8ZMcMvWAQ==" /></item></channel>
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.6-1010/Hippo-1.0.6-1010.zip" length="11434607" type="application/octet-stream" sparkle:edSignature="rzIXDHhymbMEGaWJgw6wjpvzA4w/kNTb+0vyiv9IDwgtpfrtxDE/YQVUPBS1eNY6O9BISi2xp7UiW8ZMcMvWAQ==" /></item><item><title>Hippo 1.0.7</title><sparkle:version>1011</sparkle:version><sparkle:shortVersionString>1.0.7</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><pubDate>Fri, 02 Oct 2026 20:43:09 +0000</pubDate><sparkle:channel>beta</sparkle:channel><description>## What's new (beta)
+
+**Speaker naming**
+- Name suggestions now work: Hippo suggests who a voice is from the call's participant list, pre-selects the closest match with a one-tap "Yes, &lt;name&gt;", and shows "Likely: &lt;name&gt;" when someone introduces themselves or is addressed ("Dana here", "thanks, Priya").
+- Nothing is named without your click.
+- You are no longer offered as a candidate for the other side's voices.
+- Fixed a bug where naming a voice that was matched to the wrong person could rename someone else's saved voice.
+- Voices the end-of-call check withdrew are now asked about instead of silently skipped.
+- The speaker-naming list keeps everyone seen on the call, and a background refresh no longer cancels your Refresh.
+
+**Pop-out windows**
+- Open any past meeting in its own window (right-click a meeting → Open in New Window, or the header button) to read its write-up, notes and transcript while you're on another call. Read-only.
+
+**Speaker re-check from the recording (off by default)**
+- After a call, Hippo can re-analyze the full recording and propose speaker corrections for you to review, apply and undo. Turn it on in Settings → Transcription → Second pass. It needs "Keep meeting audio" on and downloads an extra diarization model the first time. It can use noticeable CPU for a few minutes.
+
+Requires macOS 26 or later on Apple silicon.
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.7-1011/Hippo-1.0.7-1011.zip" length="11683674" type="application/octet-stream" sparkle:edSignature="wM4RAbnBzesKAbqJCQ+QbDxApQsbEnsNhc6l+CMzbH1RCIwAFV1e6Pz2LBT0Vk82GWv3EoZSsXp75fwdqX9xDA==" /></item></channel>
 </rss>
