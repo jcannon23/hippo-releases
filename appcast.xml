@@ -94,5 +94,24 @@ Requires macOS 26 or later on Apple silicon.
 Includes everything in 1.0.7: smarter speaker naming, read-only pop-out windows, and the optional post-call speaker re-check.
 
 Requires macOS 26 or later on Apple silicon.
-</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.8-1012/Hippo-1.0.8-1012.zip" length="11702238" type="application/octet-stream" sparkle:edSignature="INCI9XEfBA5lgKub3vkvcZTbOOb3ckRam5/Lu204KwV14Oc2cFqhLKIVtn+Pw0HMw8OsuOiW2ZprilXm8FjvDg==" /></item></channel>
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.8-1012/Hippo-1.0.8-1012.zip" length="11702238" type="application/octet-stream" sparkle:edSignature="INCI9XEfBA5lgKub3vkvcZTbOOb3ckRam5/Lu204KwV14Oc2cFqhLKIVtn+Pw0HMw8OsuOiW2ZprilXm8FjvDg==" /></item><item><title>Hippo 1.0.9</title><sparkle:version>1013</sparkle:version><sparkle:shortVersionString>1.0.9</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><pubDate>Sat, 03 Oct 2026 00:47:36 +0000</pubDate><sparkle:channel>beta</sparkle:channel><description sparkle:format="markdown">## Hippo 1.0.9 (beta)
+
+### Voices are named automatically after a call
+- **Auto-naming.** When a call ends, Hippo matches voices it couldn't name live against your library and names the clear matches for you. In testing on past meetings, most of the speech that stayed unnamed sounded clearly like someone Hippo already knew.
+- **You stay in control.** An **Auto-named N voices from your library** banner appears above the transcript, with **Review**, **Undo** and **Keep**. Undo puts everything back, one voice at a time or all at once, and never touches lines you've edited.
+- **Weaker matches become suggestions.** Anything less certain shows up as a pre-selected "Yes" in the naming sheet. Nothing else is ever named without your click.
+- **Fragments are joined.** A person Hippo split into several voices is merged back into one.
+- **Turn it off** in **Settings → Transcription → Second pass → Name voices automatically after a call**, if you'd rather only get suggestions.
+
+### Recognition is more reliable
+- A person who isn't on the participant list is no longer dropped when their voice clearly matches someone you know well.
+- Two saved voices for the same person no longer cancel each other out.
+- Confirming a name now teaches the voice from that meeting, and voices improve gradually instead of being overwritten by the latest call.
+- Hippo never mistakes a colleague who shares your first name for you.
+
+### For the curious
+- Each meeting now saves a short **why it was or wasn't recognized** report next to it, to help tune recognition.
+
+Requires macOS 26 or later on Apple silicon. This is a beta: please check the first few auto-named calls and tell us if a name looks wrong.
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.9-1013/Hippo-1.0.9-1013.zip" length="11898459" type="application/octet-stream" sparkle:edSignature="4fDFmC3Nl+D5CB/GSiyVxtlXXSToVzopF1fKL1cPnAckBav+wt3mzzwZQDo7D49GbfKn32VerAG6FC0wfVAVBw==" /></item></channel>
 </rss>
