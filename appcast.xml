@@ -125,5 +125,23 @@ Requires macOS 26 or later on Apple silicon. This is a beta: please check the fi
 
 - Today's Brief: fixes runs that timed out with "Copilot started but hadn't published its window" — Hippo now makes Copilot expose its message box so the prompt can be pasted and sent.
 - If Copilot still can't be driven, Hippo leaves the prompt on your clipboard and notifies you to press ⌘V in Copilot.
-</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.12-1016/Hippo-1.0.12-1016.zip" length="11912435" type="application/octet-stream" sparkle:edSignature="PvFxn82hkMMhwjzOAcwkW+H17x3KK03/0aI7Z98hl6rasOuSo8vaQdcJ423B/nQyt6EegWwQMN1/UQgxBHStDg==" /></item></channel>
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.12-1016/Hippo-1.0.12-1016.zip" length="11912435" type="application/octet-stream" sparkle:edSignature="PvFxn82hkMMhwjzOAcwkW+H17x3KK03/0aI7Z98hl6rasOuSo8vaQdcJ423B/nQyt6EegWwQMN1/UQgxBHStDg==" /></item><item><title>Hippo 1.0.13</title><sparkle:version>1017</sparkle:version><sparkle:shortVersionString>1.0.13</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><pubDate>Fri, 09 Oct 2026 20:59:42 +0000</pubDate><sparkle:channel>beta</sparkle:channel><description sparkle:format="markdown">## Hippo 1.0.13 (beta)
+
+### Client and project review
+- New Clients &amp; projects overview gathers recent summaries, decisions, open questions, and approved outstanding actions from grouped meetings, with links to the source meeting.
+- Extracted actions enter a review queue. Approve, edit, assign, dismiss, or restore suggestions before treating them as commitments. Unassigned suggestions are not assumed to be yours.
+- Reviewed wording, ownership, approval, completion, and dismissal persist across summary regeneration and backup/restore.
+
+### Chat and export fixes
+- Individual-meeting chat uses the selected local chat model and checks availability before starting.
+- Export filenames include the meeting ID to avoid overwriting same-title meetings on the same day.
+- Action lists in exports use approved actions. Existing exports remain snapshots; re-export after changing reviews.
+
+### Before updating
+- Keep a backup of your Hippo library. Existing completed and dismissed actions migrate; other extracted actions require review.
+- Meetings containing reviewed actions are protected from merging until review-preserving merge support is available.
+- An older Hippo version cannot read the new action-review ledger. Downgrading the app alone does not roll back library state.
+
+Requires macOS 26 or later on Apple silicon.
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.13-1017/Hippo-1.0.13-1017.zip" length="12003661" type="application/octet-stream" sparkle:edSignature="DKG6Tz5qdUcvJk3xvqKji7byc7TnLhK0th5yrRZMLsIXYMI8KG7JqQUF//mk/yXD2iSxcHQCwlutKzsRpfxMCw==" /></item></channel>
 </rss>
