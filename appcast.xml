@@ -160,5 +160,12 @@ Requires macOS 26 or later on Apple silicon.
 - Action Items: shorter header, a single Approve button per suggestion, and Edit or Dismiss in a menu.
 - Voices: avatar rows with one actions menu per voice (also on right-click).
 - Naming a speaker from the transcript now uses the same search list as the post-call sheet.
-</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.18-1022/Hippo-1.0.18-1022.zip" length="12097072" type="application/octet-stream" sparkle:edSignature="nfLclaR71F414nnoGyEOAY0PD69xY1SWKyqCndJ1BPN/a5HVbgS3H2mmNk6T9xSyUZ0ZRPVPrIloIcfauD2HDQ==" /></item></channel>
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.18-1022/Hippo-1.0.18-1022.zip" length="12097072" type="application/octet-stream" sparkle:edSignature="nfLclaR71F414nnoGyEOAY0PD69xY1SWKyqCndJ1BPN/a5HVbgS3H2mmNk6T9xSyUZ0ZRPVPrIloIcfauD2HDQ==" /></item><item><title>Hippo 1.0.19</title><sparkle:version>1023</sparkle:version><sparkle:shortVersionString>1.0.19</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><pubDate>Wed, 21 Oct 2026 14:29:02 +0000</pubDate><sparkle:channel>beta</sparkle:channel><description sparkle:format="markdown">- Settings now opens as its own window (⌘, or Settings in the menu bar panel), with a sidebar of sections. It is no longer inside the main window.
+- Sidebar reordered: Home, Brief, Actions, Ask Hippo, Clients, then Voices and Groups. Finished meetings get a toolbar with the title, section picker, rename, pop-out and share.
+- Transcript: the first words of a new speaker are no longer filed under the previous speaker when two people hand off without a pause.
+- Naming a speaker from the transcript now offers everyone on the call and every voice Hippo knows, like the Speakers pane.
+- Fixes a bug where notes typed just before switching meetings could be saved into the other meeting.
+- Merging a split voice into a speaker is safer: it only strengthens a voice that already exists and sounds like it, and counts once per meeting.
+- Return in the name search only picks an exact or single match; "/" then Return in notes starts a new line.
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.19-1023/Hippo-1.0.19-1023.zip" length="12122882" type="application/octet-stream" sparkle:edSignature="jaaTACZPHSfNUprrSX/mD/RtOaAR+bWrU2rQHkIMe27ht96LNBxVOg9AOLsztwpn0HZyyNmENB49iT0RF1yxDA==" /></item></channel>
 </rss>
