@@ -184,5 +184,11 @@ Requires macOS 26 or later on Apple silicon.
 - Sidebar selection is a glass capsule in your accent colour, Settings is a floating glass pill, and write-up sections are glass cards.
 - Screenshots in notes can be deleted: click one to select it and press Delete, or use the × that appears on hover. Double-click opens it.
 - Focus window: the top bar no longer drops down the window when the Transcript or People tab is empty.
-</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.23-1027/Hippo-1.0.23-1027.zip" length="12192045" type="application/octet-stream" sparkle:edSignature="l4n0IjN5tfxAE3/jRQSEBbjVJ5M9NKHCb1w81NUW0tGK55wKkj7k9GpJo9gJ4Do8vvjvmNjczy/j7tczEUfzAw==" /></item></channel>
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.23-1027/Hippo-1.0.23-1027.zip" length="12192045" type="application/octet-stream" sparkle:edSignature="l4n0IjN5tfxAE3/jRQSEBbjVJ5M9NKHCb1w81NUW0tGK55wKkj7k9GpJo9gJ4Do8vvjvmNjczy/j7tczEUfzAw==" /></item><item><title>Hippo 1.0.24</title><sparkle:version>1028</sparkle:version><sparkle:shortVersionString>1.0.24</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><pubDate>Wed, 21 Oct 2026 18:36:43 +0000</pubDate><sparkle:channel>beta</sparkle:channel><description sparkle:format="markdown">- A redesigned look in light and dark: a coloured ground under the window with glass sidebar and toolbar over it, and the content on one inset panel.
+- The write-up has a new header (title, date, length, attendees), icon sections, a People and Timeline column in wide windows, and action items as a table with owners and Approve buttons.
+- Search moved to the toolbar; the sidebar now starts with the Hippo name and icon.
+- Every main screen opens with the same title block, and body text is slightly larger (13 pt).
+- The default accent colour is now blue (your saved choice is kept).
+- Pane switches use the system's glass segmented control, with a name on each icon for VoiceOver and hover.
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.24-1028/Hippo-1.0.24-1028.zip" length="12268836" type="application/octet-stream" sparkle:edSignature="9ZlWMk0H4dDqn+o0nJfVw/Rthd4COQzBx4j8YKe3cYVF1/yRboSwPoPAlrors16Wua5ENEr7JUwRpQXFev+kBQ==" /></item></channel>
 </rss>
