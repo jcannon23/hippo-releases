@@ -173,5 +173,8 @@ Requires macOS 26 or later on Apple silicon.
 - During a call, the transcript sits beside your notes when the window is wide enough.
 - Secondary text is larger (11 pt) across the app, including Settings.
 - Voices: Rename now applies to all of a person's voice prints.
-</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.20-1024/Hippo-1.0.20-1024.zip" length="12163397" type="application/octet-stream" sparkle:edSignature="3pgO56FiPZyxgFn9ftVuL1S2y0LMeMLwjaU7izfEAFc6g/zlJHwzpQ5zDgz6P3GMlL2pNR0V42Jf5iaR3s6sBA==" /></item></channel>
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.20-1024/Hippo-1.0.20-1024.zip" length="12163397" type="application/octet-stream" sparkle:edSignature="3pgO56FiPZyxgFn9ftVuL1S2y0LMeMLwjaU7izfEAFc6g/zlJHwzpQ5zDgz6P3GMlL2pNR0V42Jf5iaR3s6sBA==" /></item><item><title>Hippo 1.0.21</title><sparkle:version>1025</sparkle:version><sparkle:shortVersionString>1.0.21</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><pubDate>Wed, 21 Oct 2026 16:19:41 +0000</pubDate><sparkle:channel>beta</sparkle:channel><description sparkle:format="markdown">- Toolbar icons on finished meetings now show their names when you hover over them.
+- Settings is one click away: a Settings button at the bottom of the sidebar (and at the bottom of the collapsed sidebar), as well as ⌘, and the menu bar panel.
+- Settings sidebar icons now follow your accent colour instead of the system purple.
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.21-1025/Hippo-1.0.21-1025.zip" length="12175833" type="application/octet-stream" sparkle:edSignature="yUDfe/+cI/NlpbCg7czaHOP5IdugFPG3KObyByWmSCH0J+AQae/DVpv06rTmK4Eo3r7dVwSic6Y29UVdRJ73Dg==" /></item></channel>
 </rss>
