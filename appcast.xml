@@ -167,5 +167,11 @@ Requires macOS 26 or later on Apple silicon.
 - Fixes a bug where notes typed just before switching meetings could be saved into the other meeting.
 - Merging a split voice into a speaker is safer: it only strengthens a voice that already exists and sounds like it, and counts once per meeting.
 - Return in the name search only picks an exact or single match; "/" then Return in notes starts a new line.
-</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.19-1023/Hippo-1.0.19-1023.zip" length="12122882" type="application/octet-stream" sparkle:edSignature="jaaTACZPHSfNUprrSX/mD/RtOaAR+bWrU2rQHkIMe27ht96LNBxVOg9AOLsztwpn0HZyyNmENB49iT0RF1yxDA==" /></item></channel>
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.19-1023/Hippo-1.0.19-1023.zip" length="12122882" type="application/octet-stream" sparkle:edSignature="jaaTACZPHSfNUprrSX/mD/RtOaAR+bWrU2rQHkIMe27ht96LNBxVOg9AOLsztwpn0HZyyNmENB49iT0RF1yxDA==" /></item><item><title>Hippo 1.0.20</title><sparkle:version>1024</sparkle:version><sparkle:shortVersionString>1.0.20</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><pubDate>Wed, 21 Oct 2026 15:54:32 +0000</pubDate><sparkle:channel>beta</sparkle:channel><description sparkle:format="markdown">- A new look: a soft accent-coloured backdrop behind the content, rounder cards, larger page titles, more spacing, and a quieter selection in the sidebar and lists. Links, tags and Settings now follow your accent colour instead of mixing colours.
+- Finished meetings: the toolbar now fits at the default window size (the section switch is icons), and Share looks like the other toolbar buttons.
+- Notes: the formatting controls float at the bottom as one glass bar, with a timestamp button and a Capture screen button while recording.
+- During a call, the transcript sits beside your notes when the window is wide enough.
+- Secondary text is larger (11 pt) across the app, including Settings.
+- Voices: Rename now applies to all of a person's voice prints.
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.20-1024/Hippo-1.0.20-1024.zip" length="12163397" type="application/octet-stream" sparkle:edSignature="3pgO56FiPZyxgFn9ftVuL1S2y0LMeMLwjaU7izfEAFc6g/zlJHwzpQ5zDgz6P3GMlL2pNR0V42Jf5iaR3s6sBA==" /></item></channel>
 </rss>
