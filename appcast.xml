@@ -190,5 +190,10 @@ Requires macOS 26 or later on Apple silicon.
 - Every main screen opens with the same title block, and body text is slightly larger (13 pt).
 - The default accent colour is now blue (your saved choice is kept).
 - Pane switches use the system's glass segmented control, with a name on each icon for VoiceOver and hover.
-</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.24-1028/Hippo-1.0.24-1028.zip" length="12268836" type="application/octet-stream" sparkle:edSignature="9ZlWMk0H4dDqn+o0nJfVw/Rthd4COQzBx4j8YKe3cYVF1/yRboSwPoPAlrors16Wua5ENEr7JUwRpQXFev+kBQ==" /></item></channel>
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.24-1028/Hippo-1.0.24-1028.zip" length="12268836" type="application/octet-stream" sparkle:edSignature="9ZlWMk0H4dDqn+o0nJfVw/Rthd4COQzBx4j8YKe3cYVF1/yRboSwPoPAlrors16Wua5ENEr7JUwRpQXFev+kBQ==" /></item><item><title>Hippo 1.0.25</title><sparkle:version>1029</sparkle:version><sparkle:shortVersionString>1.0.25</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><pubDate>Wed, 21 Oct 2026 18:50:00 +0000</pubDate><sparkle:channel>beta</sparkle:channel><description sparkle:format="markdown">- Live call, main window: a floating card on the Notes tab shows who is speaking and their last line; the participants row is tidier.
+- Live call, focus window: a speaker strip under the tabs; the notes format bar now has a shorter version in narrow windows, so Capture screen no longer stretches it.
+- The Recording row in the sidebar is translucent glass with a red edge instead of an orange fill.
+- The menu bar panel's Pause, Stop, Shot and Notes buttons are capsules that stay on one line, with Stop in red.
+- A new Hippo header at the top of the sidebar.
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.0.25-1029/Hippo-1.0.25-1029.zip" length="12299172" type="application/octet-stream" sparkle:edSignature="Ln73Ow7NzDbCy0jEBGuI6ClxB4v4UDQVM4IxL4B3iZTG6EFfDeAHKTbKNihy5cBiLVtMioZ2xEMfZDPebZexCg==" /></item></channel>
 </rss>
