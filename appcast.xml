@@ -236,5 +236,12 @@ Requires macOS 26 or later on Apple silicon.
 - Action Items: select several rows (click, shift/⌘-click, Select all, ⌘A) and Approve, Dismiss or Restore them together. Dismissed items stay recoverable in the Dismissed tab; Delete dismisses the selection.
 - The name picker in "Who was speaking?" is easier to read: names already used in the meeting are no longer dimmed.
 - The sidebar's date groups refresh at midnight.
-</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.1.4-1037/Hippo-1.1.4-1037.zip" length="12907031" type="application/octet-stream" sparkle:edSignature="fzp6wioGvrfYlZLAhekY0nZFeJWSMeyzSPKQq/3SE5Uj/gsqkuPt9v41pDuDrDbd93BHrLIFMfsFiYbt8oj9CQ==" /></item></channel>
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.1.4-1037/Hippo-1.1.4-1037.zip" length="12907031" type="application/octet-stream" sparkle:edSignature="fzp6wioGvrfYlZLAhekY0nZFeJWSMeyzSPKQq/3SE5Uj/gsqkuPt9v41pDuDrDbd93BHrLIFMfsFiYbt8oj9CQ==" /></item><item><title>Hippo 1.1.5</title><sparkle:version>1038</sparkle:version><sparkle:shortVersionString>1.1.5</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><pubDate>Thu, 22 Oct 2026 20:07:44 +0000</pubDate><sparkle:channel>beta</sparkle:channel><description sparkle:format="markdown">Readability, focus window, tooltips. Beta.
+
+- Easier to read: the dim grey text (dates, durations, group headers, captions) is lifted to meet contrast on the app's glass backdrop in dark and light; the selected meeting row in the sidebar now shows its details legibly; links and labels on selected rows and on coloured buttons are readable.
+- Focus window: its width is held to the compact size even if macOS tries to grow it, leaving focus restores your previous window size, and the compact size is remembered correctly.
+- Hovering the notes toolbar buttons, and the icons in the focus window, now shows their names.
+- Bullets and quote rules in notes follow your accent colour.
+- The name picker in "Who was speaking?" is easier to read.
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.1.5-1038/Hippo-1.1.5-1038.zip" length="12915151" type="application/octet-stream" sparkle:edSignature="JfrfS3Xh8lRcAKWCKMaFwJXWmIm+UWHKn45Iqnmn0hCbLdc+ff7uQwRywlqit5VadDeCt9d6QxHN6HfQg895Dg==" /></item></channel>
 </rss>
