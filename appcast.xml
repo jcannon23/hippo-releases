@@ -254,5 +254,9 @@ Requires macOS 26 or later on Apple silicon.
 
 - **Experimental: Read live captions.** In Teams, when you have Live Captions open, Hippo can read who is speaking from them (Settings → Read live captions, off by default). It only records for now and changes no speaker names. Nothing is turned on in the call and nothing leaves your Mac.
 - Includes Recap and the Expand crash fix from 1.1.7.
-</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.1.8-1041/Hippo-1.1.8-1041.zip" length="13533950" type="application/octet-stream" sparkle:edSignature="1Dj/UQBtn176UTAzUtXpzldz6vmNHJg5ckLMI4jqrcR5H+CJXQymDW3C53hWppZAppxT+vaeplJxMnsNMx3yDg==" /></item></channel>
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.1.8-1041/Hippo-1.1.8-1041.zip" length="13533950" type="application/octet-stream" sparkle:edSignature="1Dj/UQBtn176UTAzUtXpzldz6vmNHJg5ckLMI4jqrcR5H+CJXQymDW3C53hWppZAppxT+vaeplJxMnsNMx3yDg==" /></item><item><title>Hippo 1.1.9</title><sparkle:version>1042</sparkle:version><sparkle:shortVersionString>1.1.9</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><pubDate>Fri, 23 Oct 2026 17:43:48 +0000</pubDate><sparkle:channel>beta</sparkle:channel><description sparkle:format="markdown">## Hippo 1.1.9 (beta)
+
+- **Recap is easier to scan.** A short headline, a one-line summary, then a "How the day went" card of short lines (Morning, Midday, Afternoon), each linking to its meetings. Recaps you've already written reformat themselves into bullets; "Write again" produces the new layout.
+- Includes the experimental live-captions reader from 1.1.8.
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.1.9-1042/Hippo-1.1.9-1042.zip" length="13563868" type="application/octet-stream" sparkle:edSignature="LZmtYnqfTVI/h6cm0iCR4LW1R4hWAejXtRDMQeLDHtmDnV3lTvMIu1Bfg6KaXqJhKbK7/aayN1nkVaz2IZxzBA==" /></item></channel>
 </rss>
