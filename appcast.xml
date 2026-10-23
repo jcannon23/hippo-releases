@@ -250,5 +250,9 @@ Requires macOS 26 or later on Apple silicon.
 
 - **New: Recap.** A daily review of each finished day: what happened, the decisions, your commitments, follow-ups and open questions, each linked back to its meeting. Every day is kept in a searchable history. Yesterday's recap appears on Home.
 - **Fixed:** the Expand button in the call window could crash Hippo on macOS 27.
-</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.1.7-1040/Hippo-1.1.7-1040.zip" length="13509292" type="application/octet-stream" sparkle:edSignature="RpWEVPGt2xubbfRAeXp17V6itkhlL0eqVKet+jf90KrwPfBGF45940sxSrcLG+ahURuqW4ah2mP4ph7+yMQQAA==" /></item></channel>
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.1.7-1040/Hippo-1.1.7-1040.zip" length="13509292" type="application/octet-stream" sparkle:edSignature="RpWEVPGt2xubbfRAeXp17V6itkhlL0eqVKet+jf90KrwPfBGF45940sxSrcLG+ahURuqW4ah2mP4ph7+yMQQAA==" /></item><item><title>Hippo 1.1.8</title><sparkle:version>1041</sparkle:version><sparkle:shortVersionString>1.1.8</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><pubDate>Fri, 23 Oct 2026 17:13:44 +0000</pubDate><sparkle:channel>beta</sparkle:channel><description sparkle:format="markdown">## Hippo 1.1.8 (beta)
+
+- **Experimental: Read live captions.** In Teams, when you have Live Captions open, Hippo can read who is speaking from them (Settings → Read live captions, off by default). It only records for now and changes no speaker names. Nothing is turned on in the call and nothing leaves your Mac.
+- Includes Recap and the Expand crash fix from 1.1.7.
+</description><enclosure url="https://github.com/jcannon23/hippo-releases/releases/download/v1.1.8-1041/Hippo-1.1.8-1041.zip" length="13533950" type="application/octet-stream" sparkle:edSignature="1Dj/UQBtn176UTAzUtXpzldz6vmNHJg5ckLMI4jqrcR5H+CJXQymDW3C53hWppZAppxT+vaeplJxMnsNMx3yDg==" /></item></channel>
 </rss>
